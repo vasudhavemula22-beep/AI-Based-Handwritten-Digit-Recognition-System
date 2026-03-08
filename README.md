@@ -55,36 +55,25 @@ Run all cells
  Results:
 CNN Performance
 Metric
-
 Value
-
 Test Accuracy
-
 ~98.5%
 
 Test Loss
-
 ~0.028
 
 Training Epochs
-
 10
 
 Batch Size
-
 128
 
-MLP Performance (Optional)
+MLP Performance
 Metric
-
 Value
-
 Test Accuracy
-
 ~97.0%
-
 Test Loss
-
 ~0.052
 
  Sample Outputs:
