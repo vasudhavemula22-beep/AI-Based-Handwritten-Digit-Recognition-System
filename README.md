@@ -116,11 +116,7 @@ Change the path of the sample_digit.png which is used for testing the model:
 
  Quick Start Commands:
 
-# Install dependencies
+ Install dependencies
 pip install tensorflow numpy matplotlib scikit-learn seaborn pillow
 
-# Run the notebook
-jupyter notebook Handwritten_Digit_Recognition.ipynb
-
-# Run prediction
-python predict_digit.py
+Update png file before running the code
