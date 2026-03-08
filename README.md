@@ -110,6 +110,9 @@ Model Architecture: CNN and MLP layer descriptions
 Accuracy Results: Test accuracy, loss curves, confusion matrix
 Conclusion: Key findings and future improvements
 
+# Important:
+Change the path of the sample_digit.png which is used for testing the model:
+'predict_digit(r'C:\Users\sriha\Downloads\sample_digit.png')- to your own path in your system'
 
  Quick Start Commands:
 
